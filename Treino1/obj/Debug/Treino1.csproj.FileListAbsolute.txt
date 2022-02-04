@@ -9,3 +9,4 @@ C:\Users\WINDOWS\source\repos\Treino1\Treino1\obj\Debug\Treino1.csproj.GenerateR
 C:\Users\WINDOWS\source\repos\Treino1\Treino1\obj\Debug\Treino1.csproj.CoreCompileInputs.cache
 C:\Users\WINDOWS\source\repos\Treino1\Treino1\obj\Debug\Treino1.exe
 C:\Users\WINDOWS\source\repos\Treino1\Treino1\obj\Debug\Treino1.pdb
+C:\Users\WINDOWS\source\repos\Treino1\Treino1\obj\Debug\Treino1.Fase1.resources
