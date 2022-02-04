@@ -1,0 +1,11 @@
+C:\Users\WINDOWS\source\repos\Treino1\Treino1\bin\Debug\Treino1.exe.config
+C:\Users\WINDOWS\source\repos\Treino1\Treino1\bin\Debug\Treino1.exe
+C:\Users\WINDOWS\source\repos\Treino1\Treino1\bin\Debug\Treino1.pdb
+C:\Users\WINDOWS\source\repos\Treino1\Treino1\obj\Debug\Treino1.csproj.AssemblyReference.cache
+C:\Users\WINDOWS\source\repos\Treino1\Treino1\obj\Debug\Treino1.csproj.SuggestedBindingRedirects.cache
+C:\Users\WINDOWS\source\repos\Treino1\Treino1\obj\Debug\Treino1.Inicio.resources
+C:\Users\WINDOWS\source\repos\Treino1\Treino1\obj\Debug\Treino1.Properties.Resources.resources
+C:\Users\WINDOWS\source\repos\Treino1\Treino1\obj\Debug\Treino1.csproj.GenerateResource.cache
+C:\Users\WINDOWS\source\repos\Treino1\Treino1\obj\Debug\Treino1.csproj.CoreCompileInputs.cache
+C:\Users\WINDOWS\source\repos\Treino1\Treino1\obj\Debug\Treino1.exe
+C:\Users\WINDOWS\source\repos\Treino1\Treino1\obj\Debug\Treino1.pdb
